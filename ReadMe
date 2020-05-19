@@ -1,0 +1,12 @@
+The author of this project is Sean Liu(Xiuyu)
+
+This is an Android mobile application used as an addressbook.
+
+The project is written by Java.
+
+You can run the MainActivity to run the whole application.
+
+The application is not completed, and is not connect to a cloud server for hosting. 
+
+The application can now add, update and delete contacts. Search and sorting function is not avalilable so far.
+
